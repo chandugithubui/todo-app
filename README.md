@@ -1,20 +1,47 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Todo Application built using React and Bootstrap with Dark/Light mode support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 🌙 Dark / Light Mode Toggle
+- 🎨 Smooth animations
+- 📱 Responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# chandan_protfolio
->>>>>>> 720e570d35ab4f7b918eb18352b5e3a0bdf5d684
+- React
+- Bootstrap 5
+- JavaScript
+- CSS
+
+---
+
+## 📦 Installation
+
+1. Clone the repository
+git clone https://github.com/chandugithubui/todo-app.git
+2. Navigate to project folder
+cd todo-app
+3. Install dependencies
+npm install
+4. Start development server
+npm run dev
+
+---
+
+## 📸 Screenshot
+
+(Add screenshot here later)
+
+---
+
+## 👨‍💻 Author
+
+Chandan
