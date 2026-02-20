@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+
+eShoppingWebApp/node_modules/.bin/acorn.ps1
+/eShoppingWebApp/node_modules
+>>>>>>> 720e570d35ab4f7b918eb18352b5e3a0bdf5d684
