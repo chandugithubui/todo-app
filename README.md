@@ -39,7 +39,11 @@ npm run dev
 ## 📸 Screenshot
 
 (Add screenshot here later)
+## 📸 Screenshot
 
+<p align="center">
+  <img src="./screenshot(140).png" alt="Todo App Screenshot showing dark mode and task list" width="700"/>
+</p>
 ---
 
 ## 👨‍💻 Author
