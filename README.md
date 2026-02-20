@@ -35,10 +35,6 @@ npm install
 npm run dev
 
 ---
-
-## 📸 Screenshot
-
-(Add screenshot here later)
 ## 📸 Screenshot
 
 <p align="center">
